@@ -1,0 +1,158 @@
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\ApplicationInsights.config
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll.config
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\CarritoImagen.pdb
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\EntityFramework.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Razor.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\WebGrease.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\EntityFramework.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.Razor.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.pdb
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.xml
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.Razor.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.csprojResolveAssemblyReference.cache
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.csproj.CoreCompileInputs.cache
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.dll
+C:\Users\lily\source\repos\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.pdb
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\ApplicationInsights.config
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll.config
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\CarritoImagen.pdb
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\EntityFramework.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Razor.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\WebGrease.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\EntityFramework.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.Razor.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.pdb
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.xml
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.Razor.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.csprojResolveAssemblyReference.cache
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.csproj.CoreCompileInputs.cache
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.dll
+C:\Users\lily\Desktop\8 semestre\PROGRAMACION WEB\U5\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.pdb
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\ApplicationInsights.config
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll.config
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\CarritoImagen.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\CarritoImagen.pdb
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\EntityFramework.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Razor.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\WebGrease.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\EntityFramework.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\EntityFramework.SqlServer.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Helpers.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Mvc.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Optimization.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.Razor.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\System.Web.WebPages.Razor.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Antlr3.Runtime.pdb
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Newtonsoft.Json.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\Microsoft.AI.Web.xml
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.Razor.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.csprojResolveAssemblyReference.cache
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.dll
+C:\Users\AMADOR\Downloads\carrito\CarritoImagen\CarritoImagen\obj\Debug\CarritoImagen.pdb

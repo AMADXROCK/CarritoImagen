@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/EstiloEmpresa.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Inicio</title>
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1>Ventas Articulos</h1>
+        <p>Encontraras los que buscabas...</p>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2>About Company Page</h2>
+                <h4>Lorem ipsum..</h4>
+                <p>Lorem ipsum..</p>
+                <button class="btn btn-default btn-lg">Get in Touch</button>
+            </div>
+            <div class="col-sm-4">
+                <span class="glyphicon glyphicon-signal logo"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid bg-grey">
+        <h2>Our Values</h2>
+        <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4>
+        <p><strong>VISION:</strong> Our vision Lorem ipsum..
+    </div>
+    <---> Bootstrap ayer</--->
+    @Html.ActionLink("Ir a tienda", "Index", "Producto")
+
+    <footer class="container-fluid text-center">
+        <a href="#myPage" title="To Top">
+            <span class="glyphicon glyphicon-chevron-up"></span>
+        </a>
+        <p>Bootstrap Theme Made By <a href="https://www.w3schools.com" title="Visit w3schools">www.w3schools.com</a></p>
+    </footer>
+</body>
+</html>

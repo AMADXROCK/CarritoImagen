@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+@using CarritoImagen.Controllers
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cart</title>
+</head>
+<body>
+
+    <table cellpadding="2" cellspacing="2" border="1">
+        <tr>
+            <th>Opcion</th>
+            <th>ID </th>
+            <th>Nombre </th>
+            <th>Cantidad </th>
+            <th>Precio </th>
+            <th>Sub Total </th>
+        </tr>
+        <!--arrobadouble s = 0  -->
+        @foreach (Articulo art in (List<Articulo>)Session["Cart"])
+        {
+           <!-- s += art.Pr.Precio * art.Cantidad; -->
+            <tr>
+                <td>
+                    @Html.ActionLink("Eliminar", "eliminar", "compras",
+                   new { id = art.Pr.ID_Producto }, null)
+            </td>
+            <td>@art.Pr.Nombre  </td>
+            <td>@art.Cantidad  </td>
+            <td>@art.Pr.Precio  </td>
+            <td>@(art.Cantidad * @art.Pr.Precio) </td>
+        </tr>
+        }
+        <!--
+        <tr>
+            <td align="right" colspan="5"> Total </td>
+            <td>s</td>
+        </tr>
+        -->
+    </table>
+    <br /><br />
+    @Html.ActionLink("Continuar Comprando", "Index", "Producto")
+
+
+</body>
+</html>
